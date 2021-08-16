@@ -3,11 +3,9 @@
 ### About Me
 👩‍🎓  I'm a Computer Engineer
 
-👩🏻‍💻  Working as a Software Developer at **O Agro** with an amazing team
+👩🏻‍💻  Working as a Software Developer to an American company
 
 ⚡️ Fun Fact: I studied 3 years of Electronic Engineering
-
-🌱 Currently learning Flutter
 
 ### How to reach me
  <code><a href="https://twitter.com/thaynaalmeng">
