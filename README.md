@@ -8,18 +8,18 @@
 ⚡️ Fun Fact: I studied 3 years of Electronic Engineering
 
 ### How to reach me
- <code><a href="https://twitter.com/thaynaalmeng">
+<a href="https://twitter.com/thaynaalmeng">
   <img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a></code>
-<code><a href="https://www.linkedin.com/in/thayna-de-oliveira/">
+</a>
+<a href="https://www.linkedin.com/in/thayna-de-oliveira/">
   <img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a></code>
-<code><a href="mailto:euthaynaeng@gmail.com">
+</a>
+<a href="mailto:euthaynaeng@gmail.com">
   <img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a></code>
-<code><a href="https://www.instagram.com/euthayna/">
+</a>
+<a href="https://www.instagram.com/codewithtests/">
   <img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a></code>
+</a>
 
 ### My Development Stack
 
